@@ -1,0 +1,245 @@
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\examenNa.dll.config
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\examenNa.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\examenNa.pdb
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\csc.exe
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\csc.exe.config
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\csc.rsp
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\csi.exe
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\csi.exe.config
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\csi.rsp
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.AppContext.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.Console.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.IO.Compression.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.IO.Pipes.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.Security.Claims.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.ValueTuple.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\vbc.exe
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\vbc.exe.config
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\vbc.rsp
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\VBCSCompiler.exe
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\Antlr3.Runtime.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\EntityFramework.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\EntityFramework.SqlServer.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\Newtonsoft.Json.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\System.Web.Helpers.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\System.Web.Mvc.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\System.Web.Optimization.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\System.Web.Razor.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\System.Web.WebPages.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\System.Web.WebPages.Razor.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\WebGrease.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\EntityFramework.xml
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\EntityFramework.SqlServer.xml
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\System.Web.Helpers.xml
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\System.Web.Mvc.xml
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\System.Web.Optimization.xml
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\System.Web.Razor.xml
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\System.Web.WebPages.xml
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\System.Web.WebPages.Razor.xml
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\Newtonsoft.Json.xml
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\Antlr3.Runtime.pdb
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\obj\Debug\examenNa.csprojAssemblyReference.cache
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\obj\Debug\examenNa.csproj.CopyComplete
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\obj\Debug\examenNa.dll
+C:\Users\JaSerrano Nimtech\source\repos\examenNa\examenNa\obj\Debug\examenNa.pdb
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\examenNa.dll.config
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\examenNa.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\examenNa.pdb
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\csc.exe
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\csc.exe.config
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\csc.rsp
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\csi.exe
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\csi.exe.config
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\csi.rsp
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.AppContext.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.Console.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.IO.Compression.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.IO.Pipes.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.Security.Claims.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.ValueTuple.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\vbc.exe
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\vbc.exe.config
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\vbc.rsp
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\VBCSCompiler.exe
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\Antlr3.Runtime.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\EntityFramework.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\EntityFramework.SqlServer.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\Newtonsoft.Json.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\System.Web.Helpers.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\System.Web.Mvc.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\System.Web.Optimization.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\System.Web.Razor.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\System.Web.WebPages.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\System.Web.WebPages.Razor.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\WebGrease.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\EntityFramework.xml
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\EntityFramework.SqlServer.xml
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\System.Web.Helpers.xml
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\System.Web.Mvc.xml
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\System.Web.Optimization.xml
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\System.Web.Razor.xml
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\System.Web.WebPages.xml
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\System.Web.WebPages.Razor.xml
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\Newtonsoft.Json.xml
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\Antlr3.Runtime.pdb
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\obj\Debug\examenNa.csprojAssemblyReference.cache
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\obj\Debug\examenNa.csproj.CopyComplete
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\obj\Debug\examenNa.dll
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\obj\Debug\examenNa.pdb
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\obj\Debug\examenNa.Migrations.modeloInicial.resources
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\obj\Debug\examenNa.csproj.GenerateResource.cache
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\obj\Debug\examenNa.Migrations.CambiaRelacionesModelClienteCobertura.resources
+C:\Users\JaSerrano Nimtech\Documents\Learning\examenNa\examenNa\obj\Debug\examenNa.Migrations.CamposAbligatoriosClientePlanCobertura.resources
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\examenNa.dll.config
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\examenNa.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\examenNa.pdb
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\csc.exe
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\csc.exe.config
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\csc.rsp
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\csi.exe
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\csi.exe.config
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\csi.rsp
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.AppContext.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.Console.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.IO.Compression.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.IO.Pipes.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.Security.Claims.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.ValueTuple.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.Xml.XPath.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\vbc.exe
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\vbc.exe.config
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\vbc.rsp
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\VBCSCompiler.exe
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\Antlr3.Runtime.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\EntityFramework.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\EntityFramework.SqlServer.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\Newtonsoft.Json.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\System.Web.Helpers.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\System.Web.Mvc.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\System.Web.Optimization.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\System.Web.Razor.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\System.Web.WebPages.Deployment.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\System.Web.WebPages.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\System.Web.WebPages.Razor.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\WebGrease.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\EntityFramework.xml
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\EntityFramework.SqlServer.xml
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\System.Web.Helpers.xml
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\System.Web.Mvc.xml
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\System.Web.Optimization.xml
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\System.Web.Razor.xml
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\System.Web.WebPages.xml
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\System.Web.WebPages.Deployment.xml
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\System.Web.WebPages.Razor.xml
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\Newtonsoft.Json.xml
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\Antlr3.Runtime.pdb
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\obj\Debug\examenNa.csprojAssemblyReference.cache
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\obj\Debug\examenNa.Migrations.modeloInicial.resources
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\obj\Debug\examenNa.Migrations.CambiaRelacionesModelClienteCobertura.resources
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\obj\Debug\examenNa.Migrations.CamposAbligatoriosClientePlanCobertura.resources
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\obj\Debug\examenNa.csproj.GenerateResource.cache
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\obj\Debug\examenNa.csproj.CopyComplete
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\obj\Debug\examenNa.dll
+C:\Users\switchmx\Downloads\Jair\examenNa\examenNa\obj\Debug\examenNa.pdb
