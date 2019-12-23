@@ -40,7 +40,8 @@ namespace examenNa.Controllers
         // GET: Cliente/Create
         public ActionResult Create()
         {
-            ViewBag.IdPlan = new SelectList(db.Plan, "IdPlanes", "Nombre");
+            List<Plan> sortedNumbers = db.Plan.OrderBy(x => x.Nombre).ToList();
+            ViewBag.IdPlan = new SelectList(sortedNumbers, "IdPlanes", "Nombre"); 
             return View();
         }
 

@@ -39,7 +39,8 @@ namespace examenNa.Controllers
         // GET: Cobertura/Create
         public ActionResult Create()
         {
-            return View();
+            var cobertura = new Cobertura();
+            return View(cobertura);
         }
 
         // POST: Cobertura/Create
@@ -63,6 +64,7 @@ namespace examenNa.Controllers
 
             return View(cobertura);
         }
+         
 
         // GET: Cobertura/Edit/5
         public ActionResult Edit(int? id)
@@ -110,31 +112,33 @@ namespace examenNa.Controllers
            
         }
 
-        // GET: Cobertura/Delete/5
-        //public ActionResult Delete(int? id)
-        //{
-        //    if (id == null)
-        //    {
-        //        return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
-        //    }
-        //    Cobertura cobertura = db.Cobertura.Find(id);
-        //    if (cobertura == null)
-        //    {
-        //        return HttpNotFound();
-        //    }
-        //    return View(cobertura);
-        //}
+       // GET: Cobertura/Delete/5
+        public ActionResult Delete(int? id)
+        {
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            Cobertura cobertura = db.Cobertura.Find(id);
+            if (cobertura == null)
+            {
+                return HttpNotFound();
+            } 
+            db.Cobertura.Remove(cobertura);
+            db.SaveChanges();
+            return RedirectToAction("Index"); 
+        }
 
-        //// POST: Cobertura/Delete/5
-        //[HttpPost, ActionName("Delete")]
-        //[ValidateAntiForgeryToken]
-        //public ActionResult DeleteConfirmed(int id)
-        //{
-        //    Cobertura cobertura = db.Cobertura.Find(id);
-        //    db.Cobertura.Remove(cobertura);
-        //    db.SaveChanges();
-        //    return RedirectToAction("Index");
-        //}
+        // POST: Cobertura/Delete/5
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public ActionResult DeleteConfirmed(int id)
+        {
+            Cobertura cobertura = db.Cobertura.Find(id);
+            db.Cobertura.Remove(cobertura);
+            db.SaveChanges();
+            return RedirectToAction("Index");
+        }
 
         protected override void Dispose(bool disposing)
         {
